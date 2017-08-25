@@ -34,7 +34,8 @@ The following syntax defines various equations to use in latex.
      
 When you run the above syntax, you will get the following result.
 
-![equations](https://user-images.githubusercontent.com/18588378/29719951-e30fd9f4-89d5-11e7-860b-aa6dfb76825c.png)
+![equations](https://user-images.githubusercontent.com/18588378/29720665-455ed04a-89d8-11e7-8894-d1c5bfa3596f.png)
+
 
 
 #### * Tables:
@@ -61,7 +62,8 @@ Some technical papers requires usage of tables.So, following is the syntax for t
             
 The above code displays the following result in TexMaker.
 
-![table](https://user-images.githubusercontent.com/18588378/29720000-098d2d3e-89d6-11e7-9396-ff5c06aeb9b8.png)
+![table](https://user-images.githubusercontent.com/18588378/29720732-78ac7ac4-89d8-11e7-8aa1-7a5ba32bb983.png)
+
 
 ####  * Graphs:
 	  Syntax for usage of graphs inside the latex.
@@ -78,5 +80,8 @@ The above code displays the following result in TexMaker.
 		\end{document}
 The above code display the following result.
 
-![graphics](https://user-images.githubusercontent.com/18588378/29719428-9dded076-89d3-11e7-8d97-8eea9bba2394.png)
+
+![graphics](https://user-images.githubusercontent.com/18588378/29720777-927d09dc-89d8-11e7-8c17-d5b55b018ea8.png)
+
+
 
