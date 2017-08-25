@@ -4,10 +4,10 @@
 
 ### Table of Contents
 
--  [Syntax](#Syntax)
--  [Equations](#Equations)
--  [Tables](#Tables)
--  [Graphis](#Graphics)
+-  [Syntax](https://github.com/GitVishwa/Latex-Made-Easy/blob/master/README.md#Syntax)
+-  [Equations](https://github.com/GitVishwa/Latex-Made-Easy/blob/master/README.md#Equations)
+-  [Tables](https://github.com/GitVishwa/Latex-Made-Easy/blob/master/README.md#Tables)
+-  [Graphis](https://github.com/GitVishwa/Latex-Made-Easy/blob/master/README.md#Graphics)
  
 ###  Syntax
 
