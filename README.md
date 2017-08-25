@@ -1,24 +1,25 @@
-LATEX BASIC INTRODUCTION
-  A Document preparation system which can be used for technical or scientific documents forms of publishing.
+## LATEX BASIC INTRODUCTION
+
+A Document preparation system which can be used for technical or scientific documents forms of publishing.
  
-SYNTAX
+### SYNTAX
 
-  \documentclass{article}             -------------> This document is an article  
-  \usepackage{package Name}           -------------> Use the required package.
-   \title{Technical paper Name}       -------------> Title of the article
-   \author{Author Name}               -------------> Author Name
-   \date{Written date}                -------------> Written Date
-   \begin{document}		      -------------> Beginning of document
-	
-     Hi Latex Folks!		      -------------> Start Latext Content here.
-	
-  \end{document}		      -------------> End of document.
+  	\documentclass{article}              % This document is an article  
+  	\usepackage{package Name}            % Use the required package.
+   	\title{Technical paper Name}         % Title of the article
+  	 \author{Author Name}                % Author Name
+	   \date{Written date}               % Written Date
+	   \begin{document}		     % Beginning of document
 
-	Latex is mainly used for preparing technical papers or scientifi documents.But these papers or documents may
-	involve equations, tables, graphs etc. So, let's consider one by one.
+	     Hi Latex Folks!		     % Start Latext Content here.
+
+	  \end{document}		     % End of document.
+
+Latex is mainly used for preparing technical papers or scientifi documents.But these papers or documents may
+involve equations, tables, graphs etc. So, let's consider one by one.
  	
-  A) Equations: 
-	The following syntax defines various equations to use in latex.
+### A) Equations: 
+The following syntax defines various equations to use in latex.
 	
        		\documentclass{article}
 	        \usepackage{amsmath}
@@ -31,10 +32,10 @@ SYNTAX
  		        \end{align}
              	\end{document}
      
-	When you run the above syntax, you will get the following result.
+When you run the above syntax, you will get the following result.
 
-   B) Tables:
-	Some technical papers requires usage of tables.So, following is the syntax for table creation 
+### B) Tables:
+Some technical papers requires usage of tables.So, following is the syntax for table creation 
 
 		\documentclass{article}
 		 \begin{document}
@@ -54,10 +55,10 @@ SYNTAX
 		    \label{tab:hresult}
 		\end{table}
 		\end{document}
-             
-           The above code displays the following result in TexMaker.
+            
+The above code displays the following result in TexMaker.
 
-    C) Graphs:
+###  C) Graphs:
 	  Syntax for usage of graphs inside the latex.
 
 		\documentclass{article}
@@ -70,3 +71,4 @@ SYNTAX
 		   \label{fig:verticalcell}
 		\end{figure}
 		\end{document}
+The above code display the following result.
