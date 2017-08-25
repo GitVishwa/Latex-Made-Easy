@@ -1,6 +1,13 @@
-# LATEX BASIC INTRODUCTION
+# LATEX INTRODUCTION
 
-A Document preparation system which can be used for technical or scientific documents forms of publishing.
+> A Document preparation system which can be used for technical or scientific documents forms of publishing.
+
+### Table of Contents
+
+-  [Syntax] (#SYNTAX)
+-  [Equations] (#Equations)
+-  [Tables]  (#Tables)
+-  [Graphis] (#Graphics)
  
 ### SYNTAX
 
@@ -15,10 +22,10 @@ A Document preparation system which can be used for technical or scientific docu
 
 	  \end{document}		     % End of document.
 
-Latex is mainly used for preparing technical papers or scientifi documents.But these papers or documents may
+> Latex is mainly used for preparing technical papers or scientific documents.But these papers or documents may
 involve equations, tables, graphs etc. So, let's consider one by one.
  	
-#### * Equations: 
+#### * [Equations]: 
 The following syntax defines various equations to use in latex.
 	
        		\documentclass{article}
@@ -38,8 +45,9 @@ When you run the above syntax, you will get the following result.
 
 
 
-#### * Tables:
-Some technical papers requires usage of tables.So, following is the syntax for table creation 
+#### * [Tables]:
+
+>  Some technical papers requires usage of tables.So, following is the syntax for table creation 
 
 		\documentclass{article}
 		 \begin{document}
@@ -65,11 +73,11 @@ The above code displays the following result in TexMaker.
 ![table](https://user-images.githubusercontent.com/18588378/29720732-78ac7ac4-89d8-11e7-8aa1-7a5ba32bb983.png)
 
 
-####  * Graphs:
-	  Syntax for usage of graphs inside the latex.
+####  * [Graphs]:
+Syntax for usage of graphs inside the latex.
 
 		\documentclass{article}
-		\usepackage{graphicx}                                             %package to include the graph/image.
+		\usepackage{graphicx}                   %package to include the graph/image.
 		 \begin{document}
 
 	         \begin{figure}
