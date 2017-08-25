@@ -72,3 +72,6 @@ The above code displays the following result in TexMaker.
 		\end{figure}
 		\end{document}
 The above code display the following result.
+
+![graphics](https://user-images.githubusercontent.com/18588378/29719428-9dded076-89d3-11e7-8d97-8eea9bba2394.png)
+
