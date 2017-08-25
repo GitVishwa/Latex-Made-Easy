@@ -61,6 +61,8 @@ Some technical papers requires usage of tables.So, following is the syntax for t
             
 The above code displays the following result in TexMaker.
 
+![table](https://user-images.githubusercontent.com/18588378/29720000-098d2d3e-89d6-11e7-9396-ff5c06aeb9b8.png)
+
 ###  C) Graphs:
 	  Syntax for usage of graphs inside the latex.
 
