@@ -28,9 +28,9 @@ involve equations, tables, graphs etc. So, let's consider one by one.
 ####  Equations: 
 The following syntax defines various equations to use in latex.
 	
-       		\documentclass{article}
-	        \usepackage{amsmath}
-	       	\begin{document}
+		\documentclass{article}
+		\usepackage{amsmath}
+		\begin{document}
 	 	        \begin{align}
    			  f(x) &= x^2\\
 		          (a+b)^2 &= a^2+2ab+b^2\\
