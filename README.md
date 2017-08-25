@@ -34,6 +34,9 @@ The following syntax defines various equations to use in latex.
      
 When you run the above syntax, you will get the following result.
 
+![equations](https://user-images.githubusercontent.com/18588378/29719951-e30fd9f4-89d5-11e7-860b-aa6dfb76825c.png)
+
+
 ### B) Tables:
 Some technical papers requires usage of tables.So, following is the syntax for table creation 
 
