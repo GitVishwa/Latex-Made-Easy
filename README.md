@@ -1,4 +1,4 @@
-## LATEX BASIC INTRODUCTION
+# LATEX BASIC INTRODUCTION
 
 A Document preparation system which can be used for technical or scientific documents forms of publishing.
  
@@ -18,7 +18,7 @@ A Document preparation system which can be used for technical or scientific docu
 Latex is mainly used for preparing technical papers or scientifi documents.But these papers or documents may
 involve equations, tables, graphs etc. So, let's consider one by one.
  	
-### A) Equations: 
+#### * Equations: 
 The following syntax defines various equations to use in latex.
 	
        		\documentclass{article}
@@ -37,7 +37,7 @@ When you run the above syntax, you will get the following result.
 ![equations](https://user-images.githubusercontent.com/18588378/29719951-e30fd9f4-89d5-11e7-860b-aa6dfb76825c.png)
 
 
-### B) Tables:
+#### * Tables:
 Some technical papers requires usage of tables.So, following is the syntax for table creation 
 
 		\documentclass{article}
@@ -63,7 +63,7 @@ The above code displays the following result in TexMaker.
 
 ![table](https://user-images.githubusercontent.com/18588378/29720000-098d2d3e-89d6-11e7-9396-ff5c06aeb9b8.png)
 
-###  C) Graphs:
+####  * Graphs:
 	  Syntax for usage of graphs inside the latex.
 
 		\documentclass{article}
