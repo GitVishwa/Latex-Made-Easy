@@ -4,10 +4,10 @@
 
 ### Table of Contents
 
--  [Syntax](#Syntax)
--  [Equations](#Equations)
--  [Tables](#Tables)
--  [Graphis](#Graphs)
+-  [Syntax](#syntax)
+-  [Equations](#equations)
+-  [Tables](#tables)
+-  [Graphis](#graphs)
  
 ###  Syntax
 
