@@ -7,7 +7,7 @@
 -  [Syntax](#syntax)
 -  [Equations](#equations)
 -  [Tables](#tables)
--  [Graphis](#graphs)
+-  [Graphs](#graphs)
  
 ###  Syntax
 
